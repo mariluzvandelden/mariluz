@@ -1,0 +1,51 @@
+<!DOCTYPE html> <!--dit is de homepage van mijn site-->
+<html> <!--dit is het html-element-->
+    <head>
+        <title>Informatica</title>
+        <link rel="stylesheet" type="text/css" href="opmaak.css">
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <!--het onderwerp van de pagina-->
+        <h1>binair stelsel</h1>
+
+        <ul>
+            <li><a href="index.html">home</a></li>
+            <li><a href="binairstelsel.html">uitleg binair stelsel</a></li>
+            <li><a href="kleurmodellen.html">uitleg kleurmodellen</a></li>
+            <li><a href="Bitmap en vectoren.html">uitleg Bitmap en Vectoren</a></li>
+            <li><a href="opslag.html">uitleg werking telefoon</a></li>
+            <li><a href="opmaak.html">uitleg over de werking en componenten van computers</a>
+             <li><a href="moederbord.html">uitleg wat is een moederbord</a></li>
+             <li><a href="moederbord2.html">uitleg hoe werkt een moederbord</a></li>
+              </ul>
+<!--hier geven we uitleg over het binaire stelsel-->
+    <p> 1.</p> 
+    
+    
+    
+          
+     <img src="binair stelsel.jpg">
+
+
+    </body>
+    <h3>het drie lagen model</h3>
+    
+ 
+       
+      <h3>Logische Laag</h3>  
+        
+
+    <p> <h5>Operating System (Besturingssysteem):</h5>
+        Het besturingssysteem is een essentieel softwarecomponent dat fungeert als een brug tussen de hardware van een computer en de softwaretoepassingen die erop worden uitgevoerd. Het beheert hardwarebronnen, 
+        biedt diensten aan applicaties en zorgt voor een efficiënte uitvoering van taken</p>
+
+    <p> 2. <h5>Taken van het besturingssysteem:</h5>
+        Beheer van bronnen: Het besturingssysteem beheert de toegang tot hardwarebronnen zoals CPU, geheugen, opslag en randapparatuur
+         om ervoor te zorgen dat meerdere applicaties gelijktijdig kunnen draaien zonder conflicten.
+        Procesbeheer: Het besturingssysteem beheert de uitvoering van processen en zorgt voor multitasking, plannen van taken en het beheren van processen.
+        Geheugenbeheer: Het besturingssysteem controleert het geheugen en zorgt voor toewijzing en vrijgave van geheugenruimte voor processen.
+        Bestandsbeheer: Het besturingssysteem beheert bestanden en mappen, inclusief lezen, schrijven, hernoemen en verwijderen.
+        Apparaatbeheer: Het besturingssysteem behandelt de interactie met hardwareapparaten zoals printers, toetsenborden en schermen.
+        Beveiliging en autorisatie: Het besturingssysteem biedt beveiligingslagen om gegevens en systeembronnen te beschermen en autorisatie te regelen
+        </p>
