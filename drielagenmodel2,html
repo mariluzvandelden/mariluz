@@ -49,7 +49,10 @@
     
  
        
-      <h3>Logische Laag</h3>  
+  <p></p>    <h3>Logische Laag</h3>
+  
+De logische laag in netwerken zorgt voor foutcontrole,
+ adresbeheer en segmentatie van gegevens voor betrouwbare communicatie tussen apparaten op hetzelfde lokale netwerk  
         
 
     <p> <h5>Operating System (Besturingssysteem):</h5>
@@ -65,3 +68,4 @@
         Apparaatbeheer: Het besturingssysteem behandelt de interactie met hardwareapparaten zoals printers, toetsenborden en schermen.
         Beveiliging en autorisatie: Het besturingssysteem biedt beveiligingslagen om gegevens en systeembronnen te beschermen en autorisatie te regelen
         </p>
+    </p>   
