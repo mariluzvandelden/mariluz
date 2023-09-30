@@ -48,12 +48,16 @@
     <h3>het drie lagen model</h3>
     
  
-       
-  <p></p>    <h3>Logische Laag</h3>
+    
+    <h3>Logische Laag</h3>
+    <p>de logische laag verantwoordelijk voor het organiseren, beheren en beveiligen van de gegevensoverdracht
+         tussen apparaten op een lokaal netwerk. Het zorgt ervoor dat gegevensframes correct worden verpakt, 
+         geïdentificeerd en verzonden, wat essentieel
+         is voor de goede werking van LANs (Local Area Networks) en andere gegevensnetwerken.</p>
   
-De logische laag in netwerken zorgt voor foutcontrole,
- adresbeheer en segmentatie van gegevens voor betrouwbare communicatie tussen apparaten op hetzelfde lokale netwerk  
-        
+  
+    
+        <h3>ondererpen logische laag</h3>
 
     <p> <h5>Operating System (Besturingssysteem):</h5>
         Het besturingssysteem is een essentieel softwarecomponent dat fungeert als een brug tussen de hardware van een computer en de softwaretoepassingen die erop worden uitgevoerd. Het beheert hardwarebronnen, 
